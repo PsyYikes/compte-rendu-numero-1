@@ -1,0 +1,23 @@
+Tâche effectué:
+
+Configuration de mon poste de travail.
+configuration du compte windows et intégration dans le système AD.
+configuration de base de données keypass, pour la gestion des mots de passe et leur sécurité.
+découverte des applications d’helpdesk ainsi que du ticketing via glpi et anydesk (découverte de cmd win).
+configuration de mon compte keyyo pour l’helpdesk.
+
+appel du support bouygues pour renseignement sur un potentiel script
+automatisation des login keyyo, le résultat est que la création de script est possible mais risqué et détruirai la licence, conclusion aucun script ne sera créer.
+installation des hubs entre 4 postes de travail.
+découverte de la connectique de la boite et de son matériel.
+support informatique sur la connection internet et pourquoi nous fait elle défauts, appel du support orange, rendez vous téléphonique plus tard dans la soirée.
+vérification de la compatibilité d’un pam scripts sécurisant l’entrée ssh avec une constante authentification (à potentiellement allié à fail2ban).
+
+Objectif pour plus tard:
+apprendre à utiliser google utils.
+apprendre à utiliser slack. 
+apprendre à utiliser notion.
+découvrir l’environnement linux et le système de virtualisation des serveurs de la boite.
+apprendre plus en détail et de manière efficace le métier de technicien helpdesk.
+apprendre les commandes admin/sys windows.
+améliorer le système autant windows que linux.
