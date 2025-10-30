@@ -9,6 +9,7 @@ j'ai étudié les compte rendus de guillaume pour comprendre plus amplement le f
 j'ai ramené un ordinateur test pour créer un environnement AD secondaires basé sur l'environement de la boite, ainsi je pourrai tester des manières de détruire le système et de le protéger d'éventuelles attaques, je pourrai aussi m'entrainer à faire des taches admin sur un serveur personnel.
 j'ai fait passé commandes du matériel néccesaire à l'environnement test.
 visite des locaux à saint doulchard.
+j'ai écrit un set de question à poser aux entreprises de location de serveur HDS.
 
 objectifs:
 installé le serveur que guillaume à construit, ainsi il pourra devenir si l'implémentation le permet, le serveur principal de la société, monitoré depuis le centre nation.
