@@ -1,0 +1,19 @@
+compte rendu de la journée : 
+j'ai passé le début de matinée à régler en ligne avec orange le problème de connexion airbox quand la livebox saute, je pourrais vérifier que le travail a bien été accompli à la prochaine panne.
+j'ai déduis grâce à l'aide de mr.Noyelle que il y avait des EIM et que la boite néccesitait un rack.
+j'ai fait de la recherche  sur le matériel adéquat, au meilleur prix possible.
+j'ai fait un rapport à alae sur le rack et les raisons de ce potentiel achat(en attente de reéponse).
+j'ai appelé chaque entreprise de stockage HDS sur ma liste d'appel.
+j'ai obtenu un rdv avec adista ainsi que outscale.
+j'ai étudié les compte rendus de guillaume pour comprendre plus amplement le fonctionement de la boite, je compte continué jusqu'à la fin.
+j'ai ramené un ordinateur test pour créer un environnement AD secondaires basé sur l'environement de la boite, ainsi je pourrai tester des manières de détruire le système et de le protéger d'éventuelles attaques, je pourrai aussi m'entrainer à faire des taches admin sur un serveur personnel.
+j'ai fait passé commandes du matériel néccesaire à l'environnement test.
+visite des locaux à saint doulchard.
+
+objectifs:
+installé le serveur que guillaume à construit, ainsi il pourra devenir si l'implémentation le permet, le serveur principal de la société, monitoré depuis le centre nation.
+continué l'étude de marché à travers les rendez vous et challengé les avants-ventes avec des questions technique pour déterminé qu'elles entreprises sera choisi pour héberger nos données patients.
+reprendre là où guillaume a laissé les sites web applicatif.
+
+mood:
+content de moi même, envie d'en apprendre plus encore et toujours.
