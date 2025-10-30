@@ -21,3 +21,6 @@ découvrir l’environnement linux et le système de virtualisation des serveurs
 apprendre plus en détail et de manière efficace le métier de technicien helpdesk.
 apprendre les commandes admin/sys windows.
 améliorer le système autant windows que linux.
+
+mood:
+excité par de nouvelles perspective, heureux d’être présent et hâte de la journée de demain.
