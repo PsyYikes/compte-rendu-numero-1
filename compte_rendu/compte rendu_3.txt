@@ -1,0 +1,15 @@
+tâche effectué: 
+j'ai regardé et étudié toute la journée les possibilité de problèmes sur le réseau 
+conclusion-> 
+-le fortigate à un défaut de configuration qui amène à un défaut de connexion serveur dns.
+-la disposition et la connectique n'est pas bonne, il nous faut des cables blindées et un rack pour acceuillir tout le matériel
+réseaux de préférences à porter de main pour une simplicité d'accès et une meilleure vue sur la disposition du rack et de ses .
+j'ai appelé le responsable technique de ICC assist sur la demande du docteur lesmales,
+il veut un espace de travail en dehors du centre et de ses serveurs, la configuration se fera en interne, 
+je vais configurer une connexion vpn entre sa sortie client et l'entrée où se trouve la data patient et autres format de donnée.
+j'ai appelé la société de bureautique (bureautique diffusion) pour notifié l'erreur code 3101 sur l'imprimante de l'acceuil, ils vont organiser un rdv physique la semaine prochaine.
+j'ai eu le meeting avec adista, la discussion ne c'est pas passé comme je le désirais, ils n'ont pas répondu à mes questions car trop décousu, je dois améliorer ma réfléxion et ma manière d'amener mes questionnement dans un monde d'entreprise.
+j'ai passé la fin de journée avec Mr.Fennelon de GPL expert, il est bien au dessus que tout autre personne que j'ai eu chez GPL, il m'a aidé à comprendre d'où venais réellement le problème -> l'ipsec sautait car la livebox7 amenait un parefeux qui rentrait en contradiction avec fortigate, le changement que GPL à apporter à amener un autre effet (qui potentiellement était déjà un problème auparavant)… le serveur DHCP n'est plus connecté à la livebox et donne une addresse par défaut non reconnu ce qui amène à une coupure internet sur le réseau filaire, la box wifi marche toujours mais la connexion filaire est néant -> nous entameront la correction lundi prochain.
+
+Mood:
+fatigué, cette journée à été longue bien que formatrice, je suis déçu de ma capacité de réflexion et compte bien m'améliorer, je suis toujours plus que  motivé à continué et m'améliorer.  
